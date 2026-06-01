@@ -1,18 +1,74 @@
-# astrotalk
+# ✨ AstroBuddy
 
-A new Flutter project.
+AstroBuddy is a modern astrology and spiritual guidance application built with Flutter. The app helps users explore horoscopes, zodiac insights, birth chart analysis, and personalized cosmic guidance through an intuitive and engaging mobile experience.
 
-## Getting Started
+## 🌟 Features
 
-This project is a starting point for a Flutter application.
+* 🔮 Daily, Weekly, and Monthly Horoscopes
+* ♈ Zodiac Sign Insights & Compatibility
+* 🌙 Personalized Birth Chart Analysis
+* ✨ Spiritual Guidance & Cosmic Predictions
+* 📅 Astrology-Based Recommendations
+* 💫 User-Friendly and Modern Interface
+* 🔔 Personalized Notifications & Updates
+* 📱 Cross-Platform Support (Android & iOS)
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter
+* Dart
+* Firebase
+* REST APIs
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# AstroBuddy
-# AstroBuddy
+## 📱 App Modules
+
+* User Onboarding
+* Horoscope Dashboard
+* Zodiac Profiles
+* Birth Chart Analysis
+* Astrology Insights
+* Personalized Recommendations
+* Settings & Preferences
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+* Flutter SDK
+* Android Studio / VS Code
+* Android or iOS Device/Emulator
+
+### Installation
+
+```bash
+git clone https://github.com/yadvindersingh123/AstroBuddy.git
+cd AstroBuddy
+flutter pub get
+flutter run
+```
+
+## 🎯 Purpose
+
+AstroBuddy aims to make astrology accessible and engaging by providing personalized cosmic insights, horoscope predictions, and spiritual guidance tailored to each user's birth details and zodiac profile.
+
+## 📂 Project Structure
+
+```text
+lib/
+├── screens/
+├── widgets/
+├── models/
+├── services/
+├── utils/
+└── main.dart
+```
+
+## 👨‍💻 Developer
+
+**Yadvinder Singh**
+
+GitHub: https://github.com/yadvindersingh123
+
+## 📄 License
+
+This project is available for educational and portfolio purposes.
